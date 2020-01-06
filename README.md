@@ -1,0 +1,1 @@
+# CNN-based-solar-irradiation-estimation
